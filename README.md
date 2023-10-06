@@ -15,4 +15,4 @@ In April 2022, I undertook an exciting project focused on Spotify music recommen
 Key Result:
 * Collected Spotify music data and performed sentiment analysis on 10K+ songs using NLTK, achieving 90% accuracy in detecting explicit lyrics and positive sentiment.
 * Implemented techniques such as Count and Tfidf Vectorizers, LDA topic modeling, and cosine similarity-based recommendation models to predict song genres, uncover distinct topics in lyrics, and improve user satisfaction.
-* Designed a [Tableau dashboard] with 4 interactive worksheets, enabling streamlined data visualization and analysis of key metrics, leading to enhanced decision-making and actionable insights for the team.
+* Designed a Tableau dashboard with 4 interactive worksheets, enabling streamlined data visualization and analysis of key metrics, leading to enhanced decision-making and actionable insights for the team.
